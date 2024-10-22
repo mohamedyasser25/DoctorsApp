@@ -1,10 +1,9 @@
 # docdoc_app
 
-A new Flutter project.
+Flutter advanced project 
+## system Design
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/e4a79b47-2ef8-46cd-89af-5e3b3227dd55)
 
 A few resources to get you started if this is your first Flutter project:
 
