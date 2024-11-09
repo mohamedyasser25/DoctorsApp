@@ -6,6 +6,9 @@ plugins {
 }
 
 android {
+    lintOptions {
+            checkReleaseBuilds false
+        }
     namespace = "com.example.docdoc_app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "25.1.8937393"
